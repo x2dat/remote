@@ -13,7 +13,7 @@ if not "%~dp0"=="%vpath%\" (
 
 :: SET WEBHOOK | EDIT TO YOUR OWN WEBHOOK
 :: --------------------------------------
-set "webhook=https://discord.com/api/webhooks/1235658661972541498/QbKqxHiCqCqFZ0oWmV8NrndO0gvm9-FRdwopydXc7PJQ6kpYtmOzAiZpoxCUaabRhrjY"
+set "webhook=YOUR WEBHOOK LINK" :: EX: https://discord.com/api/webhooks/1235658661972541498/QbKqxHiCqCqFZ0oWmV8NrndO0gvm9-FRdwopydXc7PJQ6kpYtmOzAiZpoxCUaabRhrjY
 
 :: GET PRIVATE IP ADDRESS
 :: ----------------------
